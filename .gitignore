@@ -1,2 +1,5 @@
 __pycache__/
 samples/
+build/
+dist/
+py_sfile.egg-info/

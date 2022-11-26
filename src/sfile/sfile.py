@@ -26,7 +26,7 @@ def main():
         print("Details:")
         print("-----------------------------------------------")
         for key,value in fileobj['detailed'].items():
-            print(key + ": " + str(value))
+            print(str(key) + ": " + str(value))
     
 
 

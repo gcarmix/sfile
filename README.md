@@ -20,11 +20,12 @@ On some kind of files (e.g. exe, jpg, png, docx, xlsx, pdf, avi, mp3 etc...) it 
 sfile [file path to analyze]
 ```
 
+![terminal view](sample_test.png)
 ## Installation
 
 To install from pypi:
 ```
-pip install sfile
+pip install py-sfile
 ```
 
 To install from the source directory:

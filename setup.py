@@ -16,7 +16,7 @@ def read(fname):
 
 setup(
   # METADATA...
-  name = 'sfile',
+  name = 'py-sfile',
   version = '0.1.0',
   url = 'https://github.com/gcarmix/sfile',
   download_url = "https://github.com/gcarmix/sfile/archive/master.zip",

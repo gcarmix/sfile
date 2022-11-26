@@ -24,7 +24,7 @@ sfile [file path to analyze]
 
 To install from pypi:
 ```
-pip install sfile
+pip install py-sfile
 ```
 
 To install from the source directory:
